@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">iBanking</string>
+    <string name="full_app_name">Trust Bank iBanking</string>
+    <string name="Parent_Url">http://172.20.1.70:100/APIDotNetCore</string>
+    <string name="Parent_Url_https">https://172.20.1.70:443/APIDotNetCore</string>
+    <string name="Cardview_heigth">150dp</string>
+
+
+
+    <string name="login_preference">tblbd.com.ibanking_login_preference</string>
+    <string name="login_username_preference">tblbd.com.ibanking_login_username_preference</string>
+    <string name="login_token_preference">tblbd.com.ibanking_login_token_preference</string>
+    <string name="login_IMEI_preference">tblbd.com.ibanking_login_IMEI_preference</string>
+    <string name="login_SIMSerial_preference">tblbd.com.ibanking_login_SIMSerial_preference</string>
+
+</resources>
